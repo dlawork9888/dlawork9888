@@ -15,10 +15,14 @@
 
 -->
 <div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&duration=3000&pause=10000&color=D9F7EF&center=true&vCenter=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&duration=3000&pause=10000&color=D9F7EF&center=true&vCenter=true&random=false&width=435&lines=%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%EC%9E%84%ED%83%9C%EA%B7%9C%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 
-  ### 안녕하세요!
-  ### 뚝딱뚝딱 엔지니어 임태규입니다!
 </div>
+
+<br/>
 
 <div align="center">  
   
@@ -45,6 +49,20 @@
     <img src="https://img.shields.io/badge/React&Native-222222?style=for-the-badge&logo=React&logoColor=white">  
   </span>
 </div>
+
+<br/>
+
+<div align="center">  
+  
+  ### What's Next?
+</div>
+<div align='center'>
+   <span>
+    <img src="https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=OpenJDK&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-222222?style=for-the-badge&logo=spring&logoColor=white">  
+  </span>
+</div>
+
 
 
 
