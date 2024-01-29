@@ -1,5 +1,11 @@
 <div align="center">
-  Visit My Notion! → <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74"><img src="https://img.shields.io/badge/Notion-01DFD7?style=plastic&logo=Notion&logoColor=white"/></a>
+  
+  ### Visit My Portfolio! 
+  ↓↓↓
+  
+  <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74">
+    <img src="https://img.shields.io/badge/Notion-01DFD7?style=plastic&logo=Notion&logoColor=white" width="100" height="auto"/>
+  </a>
 </div>
 
 
