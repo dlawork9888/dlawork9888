@@ -64,12 +64,11 @@
 
 <br/>
 
-<div align="center">  
-  
-  ### What's Next?
-</div>
 <div align='center'>
-   <span>
+  <h3>
+    What's Next?
+  </h3>
+  <span>
     <img src="https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-222222?style=for-the-badge&logo=spring&logoColor=white">  
   </span>
@@ -80,7 +79,6 @@
   <h4>
     Coming soon ...
   </h4>
-  
   <span>
     <img src="https://img.shields.io/badge/Giihub Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   </span>
