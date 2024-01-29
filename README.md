@@ -1,18 +1,25 @@
 <div align="center">
   <span>
-    <h3>Visit My Portfolio!</h3>
+    <h3>Visit My Portfolio! ↴ </h3>
     <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74">
-      <img src="https://img.shields.io/badge/Notion Portfolio-01DFD7?style=plastic&logo=Notion&logoColor=white" width="200" height="auto" alt="Notion Logo"/>
+      <img src="https://img.shields.io/badge/Notion Portfolio-0489B1?style=plastic&logo=Notion&logoColor=white" width="200" height="auto" alt="Notion Logo"/>
     </a>
   </span>
 </div>
 
+</br></br></br>
+
+<!--
 
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient)
 
 </div>
+
+-->
+
+
 
 <!--
 
@@ -68,6 +75,16 @@
   </span>
 </div>
 
+
+<div align='center'>
+  <h4>
+    Coming soon ...
+  </h4>
+  
+  <span>
+    <img src="https://img.shields.io/badge/Giihub Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+  </span>
+</div>
 
 
 
