@@ -89,6 +89,11 @@
     <img src="https://img.shields.io/badge/Exclamation Archive-6E6E6E?style=plastic&logo=Notion&logoColor=white" width="100" height="auto" alt="Notion Logo"/>
   </a>
 
+  ###### 나만 안해서 시작한 블로그
+  <a href="https://sparkly-report-5cc.notion.site/5db8aa4a32874fe9894f016fc8c16924">
+    <img src="https://img.shields.io/badge/Velog-6E6E6E?style=plastic&logo=Velog&logoColor=white" width="60" height="auto"/>
+  </a>
+
 </div>
 
 
