@@ -30,7 +30,7 @@
 ![펄러비즈](https://github.com/dlawork9888/dlawork9888/assets/127077818/1de000d1-ee6e-4e8b-9daf-0fbac2a7681c)
 -->
 
-<img width = 60% src='https://github.com/dlawork9888/dlawork9888/assets/127077818/1de000d1-ee6e-4e8b-9daf-0fbac2a7681c'>
+<img width = 20% src='https://github.com/dlawork9888/dlawork9888/assets/127077818/1de000d1-ee6e-4e8b-9daf-0fbac2a7681c'>
 
 <!--
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&duration=3000&pause=7000&color=D9F7EF&center=true&vCenter=true&random=false&width=435&height=25&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B)](https://git.io/typing-svg)
