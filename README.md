@@ -4,7 +4,7 @@
   <span>
     <h3>Visit My Portfolio! ↴ </h3>
     <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74">
-      <img width=200 src="https://img.shields.io/badge/tglim's Portforlio-66FFE3?style=for-the-badge&logo=Notion&logoColor=000000">
+      <img width=200 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/4e8f4678-b908-470a-9607-52092529b040">
     </a>
   </span>
   </br></br></br>
