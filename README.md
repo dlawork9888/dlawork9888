@@ -84,7 +84,7 @@
 <br/>
 <span>
   <!--MFR for ALL-->
-  <a href="http://http://ec2-3-35-120-59.ap-northeast-2.compute.amazonaws.com:3002/">
+  <a href="http://ec2-3-35-120-59.ap-northeast-2.compute.amazonaws.com:3002/">
     <img style="height: 35px; margin:0px auto" src="https://github.com/dlawork9888/click_this/assets/127077818/453ce880-7b27-42ca-b595-164646902802"/>
   </a>
 </span>
