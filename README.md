@@ -79,15 +79,12 @@
 
 <!-- Working ! ... -->
 <div>
-  <img height=50 src='https://github.com/dlawork9888/click_this/assets/127077818/ee20b940-c1d2-44e4-8283-456a3776ecb0'/>
+  <img height=30 src='https://github.com/dlawork9888/click_this/assets/127077818/ee20b940-c1d2-44e4-8283-456a3776ecb0'/>
 </div>
-<br/>
-<span>
-  <!--MFR for ALL-->
-  <a href="http://ec2-3-35-120-59.ap-northeast-2.compute.amazonaws.com:3002/">
-    <img style="height: 35px; margin:0px auto" src="https://github.com/dlawork9888/click_this/assets/127077818/453ce880-7b27-42ca-b595-164646902802"/>
-  </a>
-</span>
+  <!--Clikc This-->
+<a href="http://ec2-3-35-120-59.ap-northeast-2.compute.amazonaws.com:3002/">
+  <img style="height: 30px; margin:0px auto" src="https://github.com/dlawork9888/click_this/assets/127077818/453ce880-7b27-42ca-b595-164646902802"/>
+</a>
 
 </div>
 <!-- Close Center -->
