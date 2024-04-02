@@ -2,15 +2,15 @@
 <div align="center">
 
   <span>
-    <h3>Visit My Portfoli! ↴ </h3>
-    <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74">
-      <img width=200 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/4e8f4678-b908-470a-9607-52092529b040">
-    </a>
+    <span>
+      <a href="http://www.dlawork9888.site/">
+        <img height=50 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/9e278a7c-9eb7-41a8-9b2b-73726ffd5bc3">
+      </a>
+    <h4>Open! ⭡ </h4>
   </span>
-  <span>
-    <h4>Open! ↴ </h4>
-    <a href="http://www.dlawork9888.site/">
-      <img height=50 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/9e278a7c-9eb7-41a8-9b2b-73726ffd5bc3">
+    <h4>Visit My Portfoli! ↴ </h4>
+    <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74">
+      <img height=70 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/4e8f4678-b908-470a-9607-52092529b040">
     </a>
   </span>
   </br></br></br>
