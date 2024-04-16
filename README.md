@@ -72,7 +72,7 @@
   <!--Github Pages-->
   <img src="https://img.shields.io/badge/Giihub Pages-555555?style=for-the-badge&logo=githubpages&logoColor=FFFFFF"/>
   <!--MFR for ALL-->
-  <a href="http://ec2-3-35-120-59.ap-northeast-2.compute.amazonaws.com:3001/">
+  <a href="https://mfr.dlawork9888.site">
     <img style="height: 60px; margin:0px auto" src="https://github.com/dlawork9888/dlawork9888/assets/127077818/e203b909-7029-427c-96d7-a199ab6ba168"/>
   </a>
 </span>
@@ -88,7 +88,7 @@
   <img height=30 src='https://github.com/dlawork9888/click_this/assets/127077818/ee20b940-c1d2-44e4-8283-456a3776ecb0'/>
 </div>
   <!--Clikc This-->
-<a href="http://ec2-3-35-120-59.ap-northeast-2.compute.amazonaws.com:3002/">
+<a href="https://clickthis.dlawork9888.site">
   <img style="height: 35px" src="https://github.com/dlawork9888/dlawork9888/assets/127077818/0c49ff97-6253-42f4-ab61-d7607b8627b7"/>
 </a>
 
