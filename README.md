@@ -47,6 +47,13 @@
     <img src="https://img.shields.io/badge/React&Native-555555?style=for-the-badge&logo=React&logoColor=FFFFFF">  
   </span>
 </div>
+
+<div>
+   <span>
+    <img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=Docker&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/NGINX-555555?style=for-the-badge&logo=NGINX&logoColor=FFFFFF">  
+  </span>
+</div>
   
 <br/>
 
