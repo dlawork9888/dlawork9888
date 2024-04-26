@@ -4,7 +4,7 @@
   <span>
     <span>
       <h4>Open ! ↴ </h4>
-      <a href="https://www.dlawork9888.site/">
+      <a href="https://dlawork9888.site/">
         <img height=50 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/019f9c3c-1411-4de7-917a-d1eb8514dc5d">
       </a>
   </span>
