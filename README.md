@@ -77,7 +77,7 @@
 
 <span>
   <!--Github Pages-->
-  <img src="https://img.shields.io/badge/Giihub Pages-555555?style=for-the-badge&logo=githubpages&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Github Pages-555555?style=for-the-badge&logo=githubpages&logoColor=FFFFFF"/>
   <!--MFR for ALL-->
   <a href="https://mfr.dlawork9888.site">
     <img style="height: 60px; margin:0px auto" src="https://github.com/dlawork9888/dlawork9888/assets/127077818/e203b909-7029-427c-96d7-a199ab6ba168"/>
