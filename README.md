@@ -61,6 +61,15 @@
     <img src="https://img.shields.io/badge/Github Action-555555?style=for-the-badge&logo=GitHub&logoColor=FFFFFF"> 
   </span>
 </div>
+
+<div>
+   <span>
+    <img src="https://img.shields.io/badge/Airflow-555555?style=for-the-badge&logo=apacheairflow&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/Kafka-555555?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF"> 
+    <img src="https://img.shields.io/badge/Hadoop-555555?style=for-the-badge&logo=apachehadoop&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/Spark-555555?style=for-the-badge&logo=apachespark&logoColor=FFFFFF"> 
+  </span>
+</div>
   
 <br/>
 
