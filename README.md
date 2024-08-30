@@ -57,7 +57,7 @@
 
 <div>
    <span>
-    <img src="https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Github Action-555555?style=for-the-badge&logo=GitHub&logoColor=FFFFFF"> 
   </span>
 </div>
