@@ -1,19 +1,12 @@
 <!-- Open Center -->
 <div align="center">
-
-  <span>
-    <span>
-      <h4>Open ! ↴ </h4>
-      <a href="https://dlawork9888.site/">
-        <img height=50 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/019f9c3c-1411-4de7-917a-d1eb8514dc5d">
-      </a>
-  </span>
-    <h4>Visit My Portfoli! ↴ </h4>
-    <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74">
-      <img height=70 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/4e8f4678-b908-470a-9607-52092529b040">
-    </a>
-  </span>
-  </br></br></br>
+<!--
+  <h4>Visit My Portfoli! ↴ </h4>
+  <a href="https://sparkly-report-5cc.notion.site/cad30c98023042a1a1af99519a58031b?pvs=74">
+    <img height=70 src="https://github.com/dlawork9888/dlawork9888/assets/127077818/4e8f4678-b908-470a-9607-52092529b040">
+  </a>
+-->
+  </br>
 
 <!-- 커비들 -->
 <div>
@@ -73,47 +66,9 @@
   
 <br/>
 
-<!-- What's Next ? -->
-<div>
-  <img style="height: 50px; margin:0px auto" src='https://github.com/dlawork9888/dlawork9888/assets/127077818/396a1476-04cf-473b-95eb-0327948665f6'>
-</div>
-
-<span>
-  <img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/Spring-555555?style=for-the-badge&logo=spring&logoColor=FFFFFF">  
-</span>
-  
-<br/>
-
-<!-- Comming Soon ... -->
-
-<div>
-  <img height=50 src='https://github.com/dlawork9888/dlawork9888/assets/127077818/649bba23-d08c-46da-af84-fff226628d61'/>
-</div>
-
-<span>
-  <!--Github Pages-->
-  <img src="https://img.shields.io/badge/Github Pages-555555?style=for-the-badge&logo=githubpages&logoColor=FFFFFF"/>
-  <!--MFR for ALL-->
-  <a href="https://mfr.dlawork9888.site">
-    <img style="height: 60px; margin:0px auto" src="https://github.com/dlawork9888/dlawork9888/assets/127077818/e203b909-7029-427c-96d7-a199ab6ba168"/>
-  </a>
-</span>
 
 
-<br/>
-<br/>
-<br/>
 
-
-<!-- Working ! ... -->
-<div>
-  <img height=30 src='https://github.com/dlawork9888/click_this/assets/127077818/ee20b940-c1d2-44e4-8283-456a3776ecb0'/>
-</div>
-  <!--Clikc This-->
-<a href="https://clickthis.dlawork9888.site">
-  <img style="height: 35px" src="https://github.com/dlawork9888/dlawork9888/assets/127077818/0c49ff97-6253-42f4-ab61-d7607b8627b7"/>
-</a>
 
 </div>
 <!-- Close Center -->
